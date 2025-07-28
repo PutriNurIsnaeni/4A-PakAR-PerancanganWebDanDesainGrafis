@@ -1,6 +1,7 @@
 # 4A-PakAR-PerancanganWebDanDesainGrafis
 
-# PUTRI NUR ISNAENI (23110310042)
+Nama PUTRI NUR ISNAENI 
+NIM 23110310042
 
 # Link website WordPress 
   https://sweetbite.bisdig23.com/
