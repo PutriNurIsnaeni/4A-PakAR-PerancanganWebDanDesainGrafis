@@ -9,7 +9,7 @@
   Dalam membuat website ini saya menggunakan Wordpress karena mempermudah proses pembuatan dan pengelolaan konten tanpa perlu menulis kode secara manual.
 
 # Fitur utama:
-  -Homepage dengan deskripsi singkat brand Sweetbite
-  -Galeri produk dengan gambar-gambar makanan
-  -Tombol hubungi kami untuk melakukan pemesanan 
+  - Homepage dengan deskripsi singkat brand Sweetbite
+  - Galeri produk dengan gambar-gambar makanan
+  - Tombol hubungi kami untuk melakukan pemesanan 
   - Navigasi sederhana dan tampilan user friendly
